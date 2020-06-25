@@ -5,5 +5,5 @@
 ##### Hacker101 CTF
 ##### prompt.ml
 
-#### More to be updated, Stay Tuned!
+#### More to be updated, Stay Tuned!.
 
