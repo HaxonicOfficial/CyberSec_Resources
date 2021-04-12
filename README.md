@@ -3,8 +3,7 @@ Get top quality resources from this repo. (Beginner Specific)
 
 Check this repo for some basic CTF questions: 
 
-a) Computer Networks: youtube - Thenewboston
-
+a) Computer Networks: youtube - Thenewboston  
 b) Web Technologies: (html, javascript, sql, php, nodejs): w3schools.com
 
 c) Programming and Scripting: (Python, Javascript) 
