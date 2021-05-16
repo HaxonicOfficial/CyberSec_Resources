@@ -18,6 +18,6 @@ j) Register in platforms like bugcrowd, hackerone and start bug hunting.
 
 - Bhaskar Kumar  (You can follow me on GitHub and receive updates)  
   LinkedIn: https://www.linkedin.com/in/haxonic  
-  Instagram: https://www.instagram.com/haxonic_  
+  Instagram: https://www.instagram.com/haxonic_/  
   Twitter: https://twitter.com/HaxonicOfficial
 
