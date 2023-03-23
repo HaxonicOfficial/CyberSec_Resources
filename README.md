@@ -1,8 +1,6 @@
 # CyberSec_Resources
 Get top quality resources from this repo. (Beginner Specific)
 
-Check this repo for some basic CTF questions: https://github.com/HaxonicOfficial/CTF-Practice  
-
 ## Pre-requisites
 a) Computer Networks: youtube - Thenewboston  
 b) Web Technologies: (html, javascript, sql, php, nodejs): w3schools.com  
@@ -17,7 +15,7 @@ h) Start CTF practice from ctflearn, picoctf, hackertest.net
 i) Practice real life bug-hunting from Portswigger Labs, Hacker101 CTF.  
 j) Register in platforms like bugcrowd, hackerone and start bug hunting.  
 
-
+Check this repo for some basic CTF questions: https://github.com/HaxonicOfficial/CTF-Practice  
 
 - Bhaskar Kumar  (You can follow me on GitHub and receive updates)  
   LinkedIn: https://www.linkedin.com/in/haxonic  
