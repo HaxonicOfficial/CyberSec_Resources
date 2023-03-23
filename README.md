@@ -3,13 +3,16 @@ Get top quality resources from this repo. (Beginner Specific)
 
 Check this repo for some basic CTF questions: https://github.com/HaxonicOfficial/CTF-Practice  
 
+## Pre-requisites
 a) Computer Networks: youtube - Thenewboston  
 b) Web Technologies: (html, javascript, sql, php, nodejs): w3schools.com  
 c) Programming and Scripting: (Python, Javascript)  
 d) Important Concepts: OS, SDLC  
-e) TOP 10 OWASP  
-f) Knowledge on Important Tools like Wireshark, Nessus, Nmap, Burp  
-g) Practice TOP 10 OWASP from DVWA  
+
+## CyberSec Specific
+e) TOP 10 OWASP Vulnerabilities
+f) Knowledge on Important Tools like Burp Suite, Wireshark, Nessus, Nmap  
+g) Practice TOP 10 OWASP from Portswigger Labs and DVWA  
 h) Start CTF practice from ctflearn, picoctf, hackertest.net  
 i) Practice real life bug-hunting from Portswigger Labs, Hacker101 CTF.  
 j) Register in platforms like bugcrowd, hackerone and start bug hunting.  
