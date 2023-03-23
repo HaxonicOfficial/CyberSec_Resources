@@ -1,8 +1,8 @@
 # CyberSec_Resources
 Get top quality resources from this repo. (Beginner Specific)
 
-Playlist 1 (Begineer)    -> https://www.youtube.com/playlist?list=PLmbh4Mw9r8AFUMWXSu-U9JQ0h2ltG7_1H
-Playlist 2 (Intermediate)-> https://www.youtube.com/playlist?list=PLmbh4Mw9r8AFLBmlrifG49JBaDMIsq0Au
+Playlist 1 (Begineer)    -> https://www.youtube.com/playlist?list=PLmbh4Mw9r8AFUMWXSu-U9JQ0h2ltG7_1H <br>
+Playlist 2 (Intermediate)-> https://www.youtube.com/playlist?list=PLmbh4Mw9r8AFLBmlrifG49JBaDMIsq0Au <br>
 Playlist 3 (Advance)     -> https://www.youtube.com/playlist?list=PLmbh4Mw9r8AFqKIB9WDXnBhy4ARZqSm26
 
 ## Pre-requisites
