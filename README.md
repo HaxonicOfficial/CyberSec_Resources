@@ -12,8 +12,8 @@ c) Programming and Scripting: (Python, Javascript)
 d) Important Concepts: OS, SDLC  
 
 ## CyberSec Specific
-a) TOP 10 OWASP Vulnerabilities
-b) Knowledge on Important Tools like Burp Suite, Wireshark, Nessus, Nmap  
+a) TOP 10 OWASP Vulnerabilities <br>
+b) Knowledge on Important Tools like Burp Suite, Wireshark, Nessus, Nmap  <br>
 c) Practice TOP 10 OWASP from Portswigger Labs and DVWA  
 d) Start CTF practice from ctflearn, picoctf, hackertest.net  
 e) Practice real life bug-hunting from Portswigger Labs, Hacker101 CTF.  
