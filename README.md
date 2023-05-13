@@ -12,12 +12,12 @@ c) Programming and Scripting: (Python, Javascript)
 d) Important Concepts: OS, SDLC  
 
 ## CyberSec Specific
-e) TOP 10 OWASP Vulnerabilities
-f) Knowledge on Important Tools like Burp Suite, Wireshark, Nessus, Nmap  
-g) Practice TOP 10 OWASP from Portswigger Labs and DVWA  
-h) Start CTF practice from ctflearn, picoctf, hackertest.net  
-i) Practice real life bug-hunting from Portswigger Labs, Hacker101 CTF.  
-j) Register in platforms like bugcrowd, hackerone and start bug hunting.  
+a) TOP 10 OWASP Vulnerabilities
+b) Knowledge on Important Tools like Burp Suite, Wireshark, Nessus, Nmap  
+c) Practice TOP 10 OWASP from Portswigger Labs and DVWA  
+d) Start CTF practice from ctflearn, picoctf, hackertest.net  
+e) Practice real life bug-hunting from Portswigger Labs, Hacker101 CTF.  
+f) Register in platforms like bugcrowd, hackerone and start bug hunting.  
 
 Check this repo for some basic CTF questions: https://github.com/HaxonicOfficial/CTF-Practice  
 
